@@ -94,3 +94,5 @@ This is meant to be a brief introduction to the local framework. For a broader d
 https://github.com/pinojs/pino
 www.typescriptlang.org/
 https://json-schema.org/
+https://fastify.dev/docs/latest/Guides/Getting-Started/
+https://github.com/fastify/example/tree/master
