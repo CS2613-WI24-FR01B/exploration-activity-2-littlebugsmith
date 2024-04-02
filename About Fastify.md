@@ -13,7 +13,7 @@ Or
 yarn add fastify
 ```
 
-In order to use the package for a given program, you must create a Fastify server. The setup looks like this:
+In order to use the package for a given program, you must create a Fastify server. The setup[1] looks like this:
 ```js
 // Require the framework and instantiate it
 
@@ -91,8 +91,4 @@ The Fastify library has become exceedingly popular in recent years. Notable adop
 This is meant to be a brief introduction to the local framework. For a broader demonstration, check out the sample program!
 
 [REFERENCES]
-https://github.com/pinojs/pino
-www.typescriptlang.org/
-https://json-schema.org/
-https://fastify.dev/docs/latest/Guides/Getting-Started/
-https://github.com/fastify/example/tree/master
+[1] https://fastify.dev/docs/latest/Guides/Getting-Started/
