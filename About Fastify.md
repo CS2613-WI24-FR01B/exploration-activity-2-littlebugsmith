@@ -16,13 +16,6 @@ yarn add fastify
 In order to use the package for a given program, you must create a Fastify server. The setup[1] looks like this:
 ```js
 // Require the framework and instantiate it
-
-// ESM
-import Fastify from 'fastify'
-const fastify = Fastify({
-  logger: true
-})
-// CommonJs
 const fastify = require('fastify')({
   logger: true
 })
